@@ -2,7 +2,7 @@
 
 ### Ingeniero Civil Eléctrico | Sistemas de Potencia Eléctricos y Analista de Datos 
 
-Enfocado en potenciar mis capacidades como ingeniero, comparto en este espacio mis experiencias y nuevos aprendizajes. Mi foco principal está en el desarrollo de soluciones eficientes para sistemas eléctricos de potencia, con especial interés en la integración de Energías Renovables y sistemas de almacenamiento BESS. Manejo herramientas de simulación como ETAP y DIgSILENT PowerFactory, las cuales utilizo para realizar estudios de la información que tenga.
+Enfocado en potenciar mis capacidades como ingeniero, comparto en este espacio mis experiencias y nuevos aprendizajes. Manejo herramientas de simulación como ETAP y DIgSILENT PowerFactory, las cuales utilizo para realizar estudios de la información que tenga.
 
 ---
 
